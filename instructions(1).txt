@@ -1,0 +1,4 @@
+usuage.m is the main function.
+12 datasets used in the experiment are shown in usuage.m.
+The key parameters are in the SAEFS.m and the subfunctions of the individual algorithms (BSO.m, PSO.m, SaWDE.m, ImprovedGA.m).
+get-acc.m lists 5 different classifiers used in the experiment, among which all classifiers except KNN are given in the form of annotation.
